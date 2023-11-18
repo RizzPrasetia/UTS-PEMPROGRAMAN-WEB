@@ -1,0 +1,23 @@
+1. Apa yang dimaksud dengan framework pada pengembangan aplikasi? 
+(jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+
+ jawab: menurut saya framework itu tools yang mempermudah proses ngoding, contoh nyaa bootstrap (css) kita tidak perlu ngetik panjang panjang di css, tinggal copas copas saja, dan masih banyak lagi framework lainnya, kebetulan saya hanya bisa menggunakan bootstrap saja, contoh framework lainnya seperti laravel, reactjs
+
+2. Soal No 2	
+	1. Sebutkan tema proyek yang sedang digarap!
+	2. Sebutkan anggota dari proyek yang sedang digarap, berikut dengan 
+	jobdesk dari masing-masing anggota!
+	3. Jelaskan permasalahan yang didapat setelah hasil wawancara dengan 
+	client, beserta hipotesa solusi yang kalian usung! (jelaskan dengan 
+	bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+
+ Jawab: 1. Tema yang sedang digarap adalah tema SMA/SMK
+        2. anggota pertama: Muhammad hafiiz al-haq bertugas sebagai pembuat halaman dashboard SMA/SMK dan beberapa fitur tambahan, dan merancang struktur database pada sistem perpustakaan nya.
+	   anggota kedua  : Muhammad riza dwi prasetia bertugas membuat rancangan fitur" yang ada di dalam sistem perpustakaan nya
+ 	   anggota ketiga : Rangga egha permana bertugas sebagai yang mengatur UI/UX pada sistem aplikasi nya.
+        3. Jadi setelah tim kami melakukan wawancara pada SMA/SMK tersebut ada beberapa masalah yang bisa kita ambil sebagai scope project, dan disini tim saya memilih untuk mengambil tema sistem perpustakaan.
+           Mengapa kita mengambil tema perpustakaan? Karena kita ingin memberi solusi pada SMA/SMK tersebut agar sistem perpustakaan nya lebih terstruktur, karena sebelumnya dari tim perpustakaan SMA/SMK ini mengeluhkan permasalahan pada struktur yang kurang rapih.
+           sebagai contoh: Buku yang sering hilang dan tidak dikembalikan oleh siswa/i pada SMA/SMK tersebut, dan buku catatan peminjaman perpustakaan itu sendiri masih menggunakan buku yang dimana buku catatan itu sering tergeletak begitu saja.
+
+
+
