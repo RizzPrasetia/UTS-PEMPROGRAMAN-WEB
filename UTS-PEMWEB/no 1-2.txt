@@ -1,3 +1,8 @@
+Nama: Muhammad riza dwi prasetia
+Nim: 22416255201147
+Kelas: IF22E
+
+
 1. Apa yang dimaksud dengan framework pada pengembangan aplikasi? 
 (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
 
